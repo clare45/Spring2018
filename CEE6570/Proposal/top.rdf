@@ -1,0 +1,866 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:res="http://purl.org/vocab/resourcelist/schema#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bibo="http://purl.org/ontology/bibo/"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:ctag="http://commontag.org/ns#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/F5GTY5RC">
+        <res:resource>
+            <bibo:AcademicArticle>
+                <dcterms:title>Phenol wastewater remediation: advanced oxidation processes coupled to a biological treatment</dcterms:title>
+                <dcterms:abstract>Nowadays, there are increasingly stringent regulations requiring more and more treatment of industrial effluents to generate product waters which could be easily reused or disposed of to the environment without any harmful effects. Therefore, different advanced oxidation processes were investigated as suitable precursors for the biological treatment of industrial effluents containing phenol. Wet air oxidation and Fenton process were tested batch wise, while catalytic wet air oxidation and H2O2-promoted catalytic wet air oxidation processes were studied in a trickle bed reactor, the last two using over activated carbon as catalyst. Effluent characterisation was made by means of substrate conversion (using high liquid performance chromatography), chemical oxygen demand and total organic carbon. Biodegradation parameters (i.e. maximum oxygen uptake rate and oxygen consumption) were obtained from respirometric tests using activated sludge from an urban biological wastewater treatment plant (WWTP). The main goal was to find the proper conditions in terms of biodegradability enhancement, so that these phenolic effluents could be successfully treated in an urban biological WWTP. Results show promising research ways for the development of efficient coupled processes for the treatment of wastewater containing toxic or biologically non-degradable compounds.</dcterms:abstract>
+                <bibo:pages>221-227</bibo:pages>
+                <dcterms:language>eng</dcterms:language>
+                <bibo:shortTitle>Phenol wastewater remediation</bibo:shortTitle>
+                <z:extra>PMID: 17674852</z:extra>
+                <dcterms:creator rdf:nodeID="n9394"/>
+                <bibo:authorList>
+                    <rdf:Seq>
+                        <rdf:li rdf:nodeID="n9394"/>
+                        <rdf:li rdf:nodeID="n9396"/>
+                        <rdf:li rdf:nodeID="n9397"/>
+                        <rdf:li rdf:nodeID="n9398"/>
+                        <rdf:li rdf:nodeID="n9399"/>
+                        <rdf:li rdf:nodeID="n9400"/>
+                        <rdf:li rdf:nodeID="n9401"/>
+                        <rdf:li rdf:nodeID="n9402"/>
+                        <rdf:li rdf:nodeID="n9403"/>
+                    </rdf:Seq>
+                </bibo:authorList>
+                <dcterms:creator rdf:nodeID="n9396"/>
+                <dcterms:creator rdf:nodeID="n9397"/>
+                <dcterms:creator rdf:nodeID="n9398"/>
+                <dcterms:creator rdf:nodeID="n9399"/>
+                <dcterms:creator rdf:nodeID="n9400"/>
+                <dcterms:creator rdf:nodeID="n9401"/>
+                <dcterms:creator rdf:nodeID="n9402"/>
+                <dcterms:creator rdf:nodeID="n9403"/>
+                <dcterms:isPartOf>
+                    <bibo:Issue>
+                        <bibo:volume>55</bibo:volume>
+                        <bibo:issue>12</bibo:issue>
+                        <dcterms:date>2007</dcterms:date>
+                        <dcterms:isPartOf>
+                            <bibo:Journal>
+                                <dcterms:title>Water Science and Technology: A Journal of the International Association on Water Pollution Research</dcterms:title>
+                                <bibo:shortTitle>Water Sci. Technol.</bibo:shortTitle>
+                                <bibo:issn>0273-1223</bibo:issn>
+                            </bibo:Journal>
+                        </dcterms:isPartOf>
+                    </bibo:Issue>
+                </dcterms:isPartOf>
+            </bibo:AcademicArticle>
+        </res:resource>
+        <z:repository>PubMed</z:repository>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Hydrogen Peroxide</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Iron</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Oxidation-Reduction</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Phenols</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Temperature</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged rdf:nodeID="n9409"/>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Water Purification</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n9394">
+       <foaf:givenname>A.</foaf:givenname><foaf:surname>Rubalcaba</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9396">
+        <foaf:givenname>M. E.</foaf:givenname>
+        <foaf:surname>Suárez-Ojeda</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9397">
+       <foaf:givenname>F.</foaf:givenname><foaf:surname>Stüber</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9398">
+       <foaf:givenname>A.</foaf:givenname><foaf:surname>Fortuny</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9399">
+       <foaf:givenname>C.</foaf:givenname><foaf:surname>Bengoa</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9400">
+       <foaf:givenname>I.</foaf:givenname><foaf:surname>Metcalfe</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9401">
+       <foaf:givenname>J.</foaf:givenname><foaf:surname>Font</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9402">
+       <foaf:givenname>J.</foaf:givenname><foaf:surname>Carrera</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9403">
+       <foaf:givenname>A.</foaf:givenname><foaf:surname>Fabregat</foaf:surname>
+    </foaf:Person>
+    <ctag:AutoTag rdf:nodeID="n9409">
+       <ctag:label>Water Pollutants, Chemical</ctag:label>
+    </ctag:AutoTag>
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/2FZE23MR">
+        <res:resource rdf:resource="https://www.brenda-enzymes.org/enzyme.php?ecno=1.11.1.13"/>
+        <z:accessDate>2018-05-17 02:21:23</z:accessDate>
+    </z:UserItem>
+    <bibo:Webpage rdf:about="https://www.brenda-enzymes.org/enzyme.php?ecno=1.11.1.13">
+        <dcterms:title>BRENDA - Information on EC 1.11.1.13 - manganese peroxidase</dcterms:title>
+        <bibo:uri>https://www.brenda-enzymes.org/enzyme.php?ecno=1.11.1.13</bibo:uri>
+    </bibo:Webpage>
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/7GBWPHD3">
+        <res:resource rdf:resource="http://www.sciencedirect.com/science/article/pii/S0043135403002525"/>
+        <z:accessDate>2018-05-16 18:54:25</z:accessDate>
+        <z:repository>ScienceDirect</z:repository>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Acetate</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged rdf:nodeID="n9425"/>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Anaerobic–aerobic process</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Polyhydroxyalkanoates (PHA)</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Sludge retention time (SRT)</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>pH</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+    </z:UserItem>
+    <bibo:AcademicArticle rdf:about="http://www.sciencedirect.com/science/article/pii/S0043135403002525">
+        <dcterms:title>Production of polyhydroxyalkanoates (PHA) by activated sludge treating municipal wastewater: effect of pH, sludge retention time (SRT), and acetate concentration in influent</dcterms:title>
+        <dcterms:abstract>In this paper, the production of biodegradable plastics polyhydroxyalkanoates (PHA) by activated sludge treating municipal wastewater was investigated. The effect of three operational factors, i.e. the acetate concentration in influent, pH, and sludge retention time (SRT) were studied. Sludge acclimatized with municipal wastewater supplemented with acetate could accumulate PHA up to 30% of sludge dry weight, while sludge acclimatized with only municipal wastewater achieved 20% of sludge dry weight. It was found that activated sludge with an SRT of 3 days possessed better PHA production capability than sludge with an SRT of 10 days. Sludge acclimatized under pH 7 and 8 conditions in sequencing batch reactors (SBRs) exhibited similar PHA production capability. However, in PHA production batch experiments, pH value influenced significantly the PHA accumulation behavior of activated sludge. When pH of batch experiments was controlled at 6 or 7, a very low PHA production was observed. The production of PHA was stimulated when pH was kept at 8 or 9.</dcterms:abstract>
+        <bibo:pages>3602-3611</bibo:pages>
+        <bibo:doi>10.1016/S0043-1354(03)00252-5</bibo:doi>
+        <bibo:shortTitle>Production of polyhydroxyalkanoates (PHA) by activated sludge treating municipal wastewater</bibo:shortTitle>
+        <bibo:uri>http://www.sciencedirect.com/science/article/pii/S0043135403002525</bibo:uri>
+        <dcterms:creator rdf:nodeID="n9419"/>
+        <bibo:authorList>
+            <rdf:Seq>
+                <rdf:li rdf:nodeID="n9419"/>
+                <rdf:li rdf:nodeID="n9421"/>
+                <rdf:li rdf:nodeID="n9422"/>
+                <rdf:li rdf:nodeID="n9423"/>
+            </rdf:Seq>
+        </bibo:authorList>
+        <dcterms:creator rdf:nodeID="n9421"/>
+        <dcterms:creator rdf:nodeID="n9422"/>
+        <dcterms:creator rdf:nodeID="n9423"/>
+        <dcterms:isPartOf>
+            <bibo:Issue>
+                <bibo:volume>37</bibo:volume>
+                <bibo:issue>15</bibo:issue>
+                <dcterms:date>September 1, 2003</dcterms:date>
+                <dcterms:isPartOf>
+                    <bibo:Journal>
+                        <dcterms:title>Water Research</dcterms:title>
+                        <bibo:shortTitle>Water Research</bibo:shortTitle>
+                        <bibo:issn>0043-1354</bibo:issn>
+                    </bibo:Journal>
+                </dcterms:isPartOf>
+            </bibo:Issue>
+        </dcterms:isPartOf>
+    </bibo:AcademicArticle>
+    <foaf:Person rdf:nodeID="n9419">
+        <foaf:givenname>Adeline S. M</foaf:givenname>
+        <foaf:surname>Chua</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9421">
+        <foaf:givenname>Hiroo</foaf:givenname>
+        <foaf:surname>Takabatake</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9422">
+       <foaf:givenname>Hiroyasu</foaf:givenname><foaf:surname>Satoh</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9423">
+       <foaf:givenname>Takashi</foaf:givenname><foaf:surname>Mino</foaf:surname>
+    </foaf:Person>
+    <ctag:AutoTag rdf:nodeID="n9425">
+       <ctag:label>Activated sludge</ctag:label>
+    </ctag:AutoTag>
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/E4428WQ9">
+        <res:resource rdf:resource="http://www.rroij.com/peer-reviewed/antibiotic-tetracycline-in-the-environments-a-review-58425.html"/>
+        <z:accessDate>2018-05-16 17:22:23</z:accessDate>
+        <z:repository>www.rroij.com</z:repository>
+    </z:UserItem>
+    <bibo:AcademicArticle rdf:about="http://www.rroij.com/peer-reviewed/antibiotic-tetracycline-in-the-environments-a-review-58425.html">
+        <dcterms:title>Antibiotic tetracycline in the environments- A review</dcterms:title>
+        <dcterms:abstract>Tetracycline’s (TC) are widely used in the treatment of animal diseases, as well as additives in animal feed as a sub-therapeutic dose for animal disease prevention and promotion of animal growth. Due to their extensive use and wide prevalence and persistence in the environment, there might be unforeseeable consequences. The long-term application of livestock excreta can cause the accumulation of antibiotics in the soil, have a negative effect on the ecological environment and result in TC residues. Detection of antibiotics in rivers and lakes has been reported widely. However, a systematic review on discussing the residual conditions in a variety of environmental and behavior of TC, as well as various factors affecting TC adsorption and retention in the environment, is needed and presented here. In the same breadth, the resistance research on animals, plants, and microorganisms and resistant mechanisms and substitutes was also discussed. A holistic overview of the existing detection technologies and the evaluation of environmental impact caused by TC and the latest studies to demonstrate the environmental impact by drug have also been summarized.</dcterms:abstract>
+        <dcterms:language>en</dcterms:language>
+        <bibo:uri>http://www.rroij.com/peer-reviewed/antibiotic-tetracycline-in-the-environments-a-review-58425.html</bibo:uri>
+        <dcterms:creator rdf:nodeID="n9435"/>
+        <bibo:authorList>
+            <rdf:Seq>
+                <rdf:li rdf:nodeID="n9435"/>
+                <rdf:li rdf:nodeID="n9437"/>
+                <rdf:li rdf:nodeID="n9438"/>
+                <rdf:li rdf:nodeID="n9439"/>
+                <rdf:li rdf:nodeID="n9440"/>
+            </rdf:Seq>
+        </bibo:authorList>
+        <dcterms:creator rdf:nodeID="n9437"/>
+        <dcterms:creator rdf:nodeID="n9438"/>
+        <dcterms:creator rdf:nodeID="n9439"/>
+        <dcterms:creator rdf:nodeID="n9440"/>
+        <dcterms:isPartOf>
+            <bibo:Issue>
+                <bibo:volume>4</bibo:volume>
+                <bibo:issue>3</bibo:issue>
+                <dcterms:date>2015/08/03</dcterms:date>
+                <dcterms:isPartOf>
+                    <bibo:Journal>
+                        <dcterms:title>Research &amp; Reviews: Journal of Pharmaceutical Analysis</dcterms:title>
+                        <bibo:issn>e-2320-0812   p-2347-2340</bibo:issn>
+                    </bibo:Journal>
+                </dcterms:isPartOf>
+            </bibo:Issue>
+        </dcterms:isPartOf>
+    </bibo:AcademicArticle>
+    <foaf:Person rdf:nodeID="n9435">
+        <foaf:givenname>Po-Hsiang</foaf:givenname>
+        <foaf:surname>Chang</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9437">
+       <foaf:givenname>Wei-Teh</foaf:givenname><foaf:surname>Jiang</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9438">
+       <foaf:givenname>Zhaohui</foaf:givenname><foaf:surname>Li</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9439">
+       <foaf:givenname>Jiin-Shuh</foaf:givenname><foaf:surname>Jean</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9440">
+       <foaf:givenname>Chung-Yih</foaf:givenname><foaf:surname>Kuo</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/L97437CF">
+        <res:resource rdf:resource="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1984-82502014000100003&amp;lng=en&amp;nrm=iso&amp;tlng=en"/>
+        <z:accessDate>2018-05-16 16:46:09</z:accessDate>
+        <z:repository>SciELO</z:repository>
+    </z:UserItem>
+    <bibo:AcademicArticle rdf:about="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1984-82502014000100003&amp;lng=en&amp;nrm=iso&amp;tlng=en">
+        <dcterms:title>Tetracycline: production, waste treatment and environmental impact assessment</dcterms:title>
+        <dcterms:abstract>The frequent occurrence of pharmaceuticals in the aquatic environment requires anassessment of their environmental impact and their negative effects in humans.Among the drugs with high harmful potential to the environment are theantibiotics that reach the environment not only, as may be expected, through theeffluents from chemical and pharmaceutical industries, but mainly through thesewage and livestock; because around 25 to 75% of the ingested drugs areexcreted in unchanged form after the passage through the Gastro-IntestinalTract. Tetracycline has high world consumption, representing a human consumptionof about 23 kg/day in Brazil in 2007. At the moment, researches are being madeto develop new tetracycline that incorporate heavy metals (Hg, Cd, Re, Pt, Pd)to their structures in order to increase their bactericidal effect. Theconventional wastewater treatment plants are not able to degrade complex organicmolecules to reduce their toxicity and improve their biodegradability. For thisreason new technologies, i.e., the advanced oxidation processes, are beingdeveloped to handle this demand. The objectives of this study are to review theliterature on the processes of obtaining tetracycline, presenting its wastetreatment methods and evaluation of their environmental impact.Key words: Tetracyclines/production; Tetracyclines/waste/tratament; Tetracyclines/waste/environmental impact; Environmental contamination; Domestic sewage/treatment; Industrial wastewater/treatment; Advanced oxidation processes/wastewater treatment</dcterms:abstract>
+        <bibo:pages>25-40</bibo:pages>
+        <bibo:doi>10.1590/S1984-82502011000100003</bibo:doi>
+        <bibo:shortTitle>Tetracycline</bibo:shortTitle>
+        <bibo:uri>http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1984-82502014000100003&amp;lng=en&amp;nrm=iso&amp;tlng=en</bibo:uri>
+        <dcterms:creator rdf:nodeID="n9446"/>
+        <bibo:authorList>
+            <rdf:Seq>
+                <rdf:li rdf:nodeID="n9446"/>
+                <rdf:li rdf:nodeID="n9448"/>
+                <rdf:li rdf:nodeID="n9449"/>
+                <rdf:li rdf:nodeID="n9450"/>
+            </rdf:Seq>
+        </bibo:authorList>
+        <dcterms:creator rdf:nodeID="n9448"/>
+        <dcterms:creator rdf:nodeID="n9449"/>
+        <dcterms:creator rdf:nodeID="n9450"/>
+        <dcterms:isPartOf>
+            <bibo:Issue>
+                <bibo:volume>50</bibo:volume>
+                <bibo:issue>1</bibo:issue>
+                <dcterms:date>03/2014</dcterms:date>
+                <dcterms:isPartOf>
+                    <bibo:Journal>
+                        <dcterms:title>Brazilian Journal of Pharmaceutical Sciences</dcterms:title>
+                        <bibo:issn>1984-8250</bibo:issn>
+                    </bibo:Journal>
+                </dcterms:isPartOf>
+            </bibo:Issue>
+        </dcterms:isPartOf>
+    </bibo:AcademicArticle>
+    <foaf:Person rdf:nodeID="n9446">
+        <foaf:givenname>Alexandre Augusto</foaf:givenname>
+        <foaf:surname>Borghi</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9448">
+        <foaf:givenname>Mauri Sergio Alves</foaf:givenname>
+        <foaf:surname>Palma</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9449">
+        <foaf:givenname>Alexandre Augusto</foaf:givenname>
+        <foaf:surname>Borghi</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9450">
+        <foaf:givenname>Mauri Sergio Alves</foaf:givenname>
+        <foaf:surname>Palma</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/32YWFXEB">
+        <res:resource rdf:resource="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4034546/"/>
+        <z:accessDate>2018-05-16 16:43:58</z:accessDate>
+        <z:repository>PubMed Central</z:repository>
+    </z:UserItem>
+    <bibo:AcademicArticle rdf:about="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4034546/">
+        <dcterms:title>Antibiotics in the environment</dcterms:title>
+        <dcterms:abstract>Molecules with antibiotic properties, produced by various microbes, have been around long before mankind recognized their usefulness in preventing and treating bacterial infections. Bacteria have therefore been exposed to selection pressures from antibiotics for very long times, however, generally only on a micro-scale within the immediate vicinity of the antibiotic-producing organisms. In the twentieth century we began mass-producing antibiotics, mainly synthetic derivatives of naturally produced antibiotic molecules, but also a few entirely synthetic compounds. As a consequence, entire bacterial communities became exposed to unprecedented antibiotic selection pressures, which in turn led to the rapid resistance development we are facing today among many pathogens. We are, rightly, concerned about the direct selection pressures of antibiotics on the microbial communities that reside in or on our bodies. However, other environments, outside of our bodies, may also be exposed to antibiotics through different routes, most often unintentionally. There are concerns that increased selection pressures from antibiotics in the environment can contribute to the recruitment of resistance factors from the environmental resistome to human pathogens. This paper attempts to 1) provide a brief overview of environmental exposure routes of antibiotics, 2) provide some thoughts about our current knowledge of the associated risks for humans as well as ecosystems, and 3) indicate management options to reduce risks.</dcterms:abstract>
+        <bibo:pages>108-112</bibo:pages>
+        <bibo:doi>10.3109/03009734.2014.896438</bibo:doi>
+        <bibo:uri>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4034546/</bibo:uri>
+        <z:extra>PMID: 24646081
+PMCID: PMC4034546</z:extra>
+        <dcterms:creator rdf:nodeID="n9456"/>
+        <bibo:authorList>
+           <rdf:Seq><rdf:li rdf:nodeID="n9456"/></rdf:Seq>
+        </bibo:authorList>
+        <dcterms:isPartOf>
+            <bibo:Issue>
+                <bibo:volume>119</bibo:volume>
+                <bibo:issue>2</bibo:issue>
+                <dcterms:date>2014-5</dcterms:date>
+                <dcterms:isPartOf>
+                    <bibo:Journal>
+                        <dcterms:title>Upsala Journal of Medical Sciences</dcterms:title>
+                        <bibo:shortTitle>Ups J Med Sci</bibo:shortTitle>
+                        <bibo:issn>0300-9734</bibo:issn>
+                    </bibo:Journal>
+                </dcterms:isPartOf>
+            </bibo:Issue>
+        </dcterms:isPartOf>
+    </bibo:AcademicArticle>
+    <foaf:Person rdf:nodeID="n9456">
+        <foaf:givenname>D. G. Joakim</foaf:givenname>
+        <foaf:surname>Larsson</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/ASPJU6TX">
+        <res:resource rdf:resource="http://www.sciencedirect.com/science/article/pii/S0960852408009851"/>
+        <z:accessDate>2018-05-16 16:43:04</z:accessDate>
+        <z:repository>ScienceDirect</z:repository>
+        <ctag:tagged rdf:nodeID="n9425"/>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Biodegradation</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Membrane bioreactor</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged rdf:nodeID="n9469"/>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Toxicity</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+    </z:UserItem>
+    <bibo:AcademicArticle rdf:about="http://www.sciencedirect.com/science/article/pii/S0960852408009851">
+        <dcterms:title>Biodegradation by activated sludge and toxicity of tetracycline into a semi-industrial membrane bioreactor</dcterms:title>
+        <dcterms:abstract>Much attention has been devoted recently to the fate of pharmaceutically active compounds such as tetracycline antibiotics in soil and water. Tetracycline (TC) biodegradability by activated sludge derived from membrane bioreactor (MBR) treating swine wastewater via CO2-evolution was evaluated by means of modified Sturm test, which was also used to evaluate its toxicity on carbon degradation. The impact of tetracycline on a semi-industrial MBR process was also examined and confronted to lab-scale experiments. After tetracycline injection in the pilot, no disturbance was detected on the elimination of organic matters and ammonium (nitrification), reaching after injection 88% and 99% respectively; only denitrification was slightly affected. Confirming the ruggedness and the superiority of membrane bioreactors over conventional bioreactors, no toxicity was observed at the considered level of TC in the pilot (20mg TOCL−1), while at lab-scale sodium benzoate biodegradation was completely inhibited from 10mg TOCL−1 TC. The origin of the activated sludge showed a significant impact on the performances, since the ultimate biodegradation was in the range −50% to −53% for TC concentrations in the range 10–20mg TOCL−1 with conventional bioreactor sludge and increased to 18% for 40mg TOCL−1 of TC with activated sludge derived from the MBR pilot. This confirmed the higher resistance of activated sludge arising from membrane bioreactor.</dcterms:abstract>
+        <bibo:pages>3769-3774</bibo:pages>
+        <bibo:doi>10.1016/j.biortech.2008.11.039</bibo:doi>
+        <bibo:uri>http://www.sciencedirect.com/science/article/pii/S0960852408009851</bibo:uri>
+        <dcterms:creator rdf:nodeID="n9463"/>
+        <bibo:authorList>
+            <rdf:Seq>
+                <rdf:li rdf:nodeID="n9463"/>
+                <rdf:li rdf:nodeID="n9465"/>
+                <rdf:li rdf:nodeID="n9466"/>
+            </rdf:Seq>
+        </bibo:authorList>
+        <dcterms:creator rdf:nodeID="n9465"/>
+        <dcterms:creator rdf:nodeID="n9466"/>
+        <dcterms:isPartOf>
+            <bibo:Issue>
+                <bibo:volume>100</bibo:volume>
+                <bibo:issue>15</bibo:issue>
+                <dcterms:date>August 1, 2009</dcterms:date>
+                <dcterms:isPartOf>
+                    <bibo:Journal>
+                        <dcterms:title>Bioresource Technology</dcterms:title>
+                        <bibo:shortTitle>Bioresource Technology</bibo:shortTitle>
+                        <bibo:issn>0960-8524</bibo:issn>
+                        <dcterms:isPartOf>
+                            <bibo:Series>
+                                <dcterms:title>Second International Conference on Engineering for Waste Valorisation (WasteEng2008</dcterms:title>
+                            </bibo:Series>
+                        </dcterms:isPartOf>
+                    </bibo:Journal>
+                </dcterms:isPartOf>
+            </bibo:Issue>
+        </dcterms:isPartOf>
+    </bibo:AcademicArticle>
+    <foaf:Person rdf:nodeID="n9463">
+       <foaf:givenname>Nolwenn</foaf:givenname><foaf:surname>Prado</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9465">
+       <foaf:givenname>Juan</foaf:givenname><foaf:surname>Ochoa</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9466">
+        <foaf:givenname>Abdeltif</foaf:givenname>
+        <foaf:surname>Amrane</foaf:surname>
+    </foaf:Person>
+    <ctag:AutoTag rdf:nodeID="n9469">
+       <ctag:label>Tetracycline</ctag:label>
+    </ctag:AutoTag>
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/DN3QI46I">
+        <res:resource rdf:resource="info:doi/10.1080/10826068.2014.970692"/>
+        <z:repository>PubMed</z:repository>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Biodegradation efficiency</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Biodegradation, Environmental</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Chromatography, High Pressure Liquid</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Kinetics</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>LC-MS/MS</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Phylogeny</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Sewage</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Tandem Mass Spectrometry</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged rdf:nodeID="n9469"/>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Trichosporon</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Trichosporon mycotoxinivorans XPY-10</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Waste Water</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged rdf:nodeID="n9409"/>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>biodegradation products</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>sewage</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>tetracycline</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+    </z:UserItem>
+    <bibo:AcademicArticle rdf:about="info:doi/10.1080/10826068.2014.970692">
+        <dcterms:title>Biodegradation of tetracycline by the yeast strain Trichosporon mycotoxinivorans XPY-10</dcterms:title>
+        <dcterms:abstract>We investigated the behavior of tetracycline degradation and its degradation products upon treatment of isolated yeast that we termed &quot;XPY-10.&quot; XPY-10 was isolated from wastewater and identified as Trichosporon mycotoxinivorans by morphological and physiological tests and 5.8S rRNA ITS sequencing. In our experiments, 78.28 ± 0.8% of tetracycline was removed within 7 days with XPY-10. The degradation of tetracycline fitted well with the first-order kinetic model. We also speculated upon the biodegradation products formed during biodegradation. The possible structures of five products were determined using liquid chromatography-tandem mass spectrometry. During practical application, XPY-10 was shown to have an obvious influence on biodegradation, and 89.61% of tetracycline was removed in feedlot sewage after 7 days of reaction. The chemical oxygen demand removal reached 73.47%.</dcterms:abstract>
+        <bibo:pages>15-22</bibo:pages>
+        <dcterms:language>eng</dcterms:language>
+        <bibo:doi>10.1080/10826068.2014.970692</bibo:doi>
+        <z:extra>PMID: 25286144</z:extra>
+        <dcterms:creator rdf:nodeID="n9476"/>
+        <bibo:authorList>
+            <rdf:Seq>
+                <rdf:li rdf:nodeID="n9476"/>
+                <rdf:li rdf:nodeID="n9478"/>
+                <rdf:li rdf:nodeID="n9479"/>
+                <rdf:li rdf:nodeID="n9480"/>
+            </rdf:Seq>
+        </bibo:authorList>
+        <dcterms:creator rdf:nodeID="n9478"/>
+        <dcterms:creator rdf:nodeID="n9479"/>
+        <dcterms:creator rdf:nodeID="n9480"/>
+        <dcterms:isPartOf>
+            <bibo:Issue>
+                <bibo:volume>46</bibo:volume>
+                <bibo:issue>1</bibo:issue>
+                <dcterms:date>2016</dcterms:date>
+                <dcterms:isPartOf>
+                    <bibo:Journal>
+                        <dcterms:title>Preparative Biochemistry &amp; Biotechnology</dcterms:title>
+                        <bibo:shortTitle>Prep. Biochem. Biotechnol.</bibo:shortTitle>
+                        <bibo:issn>1532-2297</bibo:issn>
+                    </bibo:Journal>
+                </dcterms:isPartOf>
+            </bibo:Issue>
+        </dcterms:isPartOf>
+    </bibo:AcademicArticle>
+    <foaf:Person rdf:nodeID="n9476">
+       <foaf:givenname>Xiaochen</foaf:givenname><foaf:surname>Huang</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9478">
+       <foaf:givenname>Xinyang</foaf:givenname><foaf:surname>Zhang</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9479">
+       <foaf:givenname>Fuxin</foaf:givenname><foaf:surname>Feng</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9480">
+       <foaf:givenname>Xuping</foaf:givenname><foaf:surname>Xu</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/YICKJUZ5">
+        <res:resource rdf:resource="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5266830/"/>
+        <z:accessDate>2018-05-16 16:41:18</z:accessDate>
+        <z:repository>PubMed Central</z:repository>
+    </z:UserItem>
+    <bibo:AcademicArticle rdf:about="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5266830/">
+        <dcterms:title>Tetracyclines in Food and Feedingstuffs: From Regulation to Analytical Methods, Bacterial Resistance, and Environmental and Health Implications</dcterms:title>
+        <dcterms:abstract>Antibiotics are widely used as growth promoters in animal husbandry; among them, the tetracyclines are a chemical group of relevance, due to their wide use in agriculture, surpassing in quantities applied almost every other antibiotic family. Seeing the considerable amounts of tetracyclines used worldwide, monitoring of these antibiotics is paramount. Advances must be made in the analysis of antibiotics to assess correct usage and dosage of tetracyclines in food and feedstuffs and possible residues in pertinent environmental samples. The tetracyclines are still considered a clinically relevant group of antibiotics, though dissemination of tolerance and resistance determinants have limited their use. This review focuses on four different aspects: (i) tetracyclines, usage, dosages, and regulatory issues that govern their food-related application, with particular attention to the prohibitions and restrictions that several countries have enforced in recent years by agencies from both the United States and the European Union, (ii) analytical methods for tetracyclines, determination, and residues thereof in feedstuffs and related matrices with an emphasis on the most relevant and novel techniques, including both screening and confirmatory methods, (iii) tetracycline resistance and tetracycline-resistant bacteria in feedstuff, and (iv) environmental and health risks accompanying the use of tetracyclines in animal nutrition. In the last two cases, we discuss the more relevant undesirable effects that tetracyclines exert over bacterial communities and nontarget species including unwanted effects in farmers.</dcterms:abstract>
+        <bibo:doi>10.1155/2017/1315497</bibo:doi>
+        <bibo:shortTitle>Tetracyclines in Food and Feedingstuffs</bibo:shortTitle>
+        <bibo:uri>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5266830/</bibo:uri>
+        <z:extra>PMID: 28168081
+PMCID: PMC5266830</z:extra>
+        <dcterms:creator rdf:nodeID="n9500"/>
+        <bibo:authorList>
+            <rdf:Seq>
+               <rdf:li rdf:nodeID="n9500"/><rdf:li rdf:nodeID="n9502"/>
+            </rdf:Seq>
+        </bibo:authorList>
+        <dcterms:creator rdf:nodeID="n9502"/>
+        <dcterms:isPartOf>
+            <bibo:Issue>
+                <bibo:volume>2017</bibo:volume>
+                <dcterms:date>2017</dcterms:date>
+                <dcterms:isPartOf>
+                    <bibo:Journal>
+                        <dcterms:title>Journal of Analytical Methods in Chemistry</dcterms:title>
+                        <bibo:shortTitle>J Anal Methods Chem</bibo:shortTitle>
+                        <bibo:issn>2090-8865</bibo:issn>
+                    </bibo:Journal>
+                </dcterms:isPartOf>
+            </bibo:Issue>
+        </dcterms:isPartOf>
+    </bibo:AcademicArticle>
+    <foaf:Person rdf:nodeID="n9500">
+        <foaf:givenname>Fabio</foaf:givenname>
+        <foaf:surname>Granados-Chinchilla</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9502">
+        <foaf:givenname>César</foaf:givenname>
+        <foaf:surname>Rodríguez</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/WQHUDATR">
+        <res:resource rdf:resource="https://link.springer.com/article/10.1007/s12010-013-0559-6"/>
+        <z:accessDate>2018-05-16 16:38:53</z:accessDate>
+        <z:repository>link.springer.com</z:repository>
+    </z:UserItem>
+    <bibo:AcademicArticle rdf:about="https://link.springer.com/article/10.1007/s12010-013-0559-6">
+        <dcterms:title>Biodegradation of Tetracycline Under Various Conditions and Effects on Microbial Community</dcterms:title>
+        <dcterms:abstract>Five hundred tons of antibiotics are consumed yearly in the world. In this study, the biodegradation characteristics of tetracycline (TET) under nitrate-reducing, sulfate-reducing, and methanogenic conditions were determined by batch tests. Also, effects of TET on mixed microbial cultures were revealed by microbiological analysis. In this scope, gas generation and composition, dissolved organic carbon, and electron acceptor concentrations were monitored during 120 days. Additionally, changes on quantities of specific microbial groups were determined by Q-PCR. TET showed non-biodegradable behavior under nitrate- and sulfate-reducing conditions, whereas slightly biodegradable behavior under methanogenic conditions approximately 46 % degradation. The effects of TET on the abundance of mixed culture varied according to taxonomic units. Sulfate-reducing bacteria were inhibited by TET, while archaeal, bacterial, and methanogenic populations were not affected significantly.</dcterms:abstract>
+        <bibo:pages>631-640</bibo:pages>
+        <dcterms:language>en</dcterms:language>
+        <bibo:doi>10.1007/s12010-013-0559-6</bibo:doi>
+        <bibo:uri>https://link.springer.com/article/10.1007/s12010-013-0559-6</bibo:uri>
+        <dcterms:creator rdf:nodeID="n9508"/>
+        <bibo:authorList>
+            <rdf:Seq>
+                <rdf:li rdf:nodeID="n9508"/>
+                <rdf:li rdf:nodeID="n9510"/>
+                <rdf:li rdf:nodeID="n9511"/>
+                <rdf:li rdf:nodeID="n9512"/>
+            </rdf:Seq>
+        </bibo:authorList>
+        <dcterms:creator rdf:nodeID="n9510"/>
+        <dcterms:creator rdf:nodeID="n9511"/>
+        <dcterms:creator rdf:nodeID="n9512"/>
+        <dcterms:isPartOf>
+            <bibo:Issue>
+                <bibo:volume>172</bibo:volume>
+                <bibo:issue>2</bibo:issue>
+                <dcterms:date>2014/01/01</dcterms:date>
+                <dcterms:isPartOf>
+                    <bibo:Journal>
+                        <dcterms:title>Applied Biochemistry and Biotechnology</dcterms:title>
+                        <bibo:shortTitle>Appl Biochem Biotechnol</bibo:shortTitle>
+                        <bibo:issn>0273-2289, 1559-0291</bibo:issn>
+                    </bibo:Journal>
+                </dcterms:isPartOf>
+            </bibo:Issue>
+        </dcterms:isPartOf>
+    </bibo:AcademicArticle>
+    <foaf:Person rdf:nodeID="n9508">
+        <foaf:givenname>Zeynep</foaf:givenname>
+        <foaf:surname>Cetecioglu</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9510">
+       <foaf:givenname>Bahar</foaf:givenname><foaf:surname>Ince</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9511">
+       <foaf:givenname>Samet</foaf:givenname><foaf:surname>Azman</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9512">
+       <foaf:givenname>Orhan</foaf:givenname><foaf:surname>Ince</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/YG9S5UQ8">
+        <res:resource rdf:resource="http://www.sciencedirect.com/science/article/pii/S0960852413011516"/>
+        <z:accessDate>2018-05-16 16:37:57</z:accessDate>
+        <z:repository>ScienceDirect</z:repository>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Autotrophic ammonia oxidizers</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Cometabolism</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Emerging trace organic contaminants (EOCs)</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Heterotrophic microorganisms</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Membrane bioreactor (MBR)</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+    </z:UserItem>
+    <bibo:AcademicArticle rdf:about="http://www.sciencedirect.com/science/article/pii/S0960852413011516">
+        <dcterms:title>Insight into metabolic and cometabolic activities of autotrophic and heterotrophic microorganisms in the biodegradation of emerging trace organic contaminants</dcterms:title>
+        <dcterms:abstract>Many efforts have been made to understand the biodegradation of emerging trace organic contaminants (EOCs) in the natural and engineered systems. This review summarizes the current knowledge on the biodegradation of EOCs while having in-depth discussion on metabolism and cometabolism of EOCs. Biodegradation of EOCs is mainly attributed to cometabolic activities of both heterotrophic and autotrophic microorganisms. Metabolism of EOCs can only be observed by heterotrophic microbes. Autotrophic ammonia oxidizing bacteria (AOB) and ammonia oxidizing archaeal (AOA) cometabolize a variety of EOCs via the non-specific enzymes, such as ammonia monooxygenase (AMO). Higher biodegradation of EOCs is often noted under nitrification at high ammonia loading rate. The presence of a growth substrate promotes cometabolic biodegradation of EOCs. Potential strategies for enhancing the biodegradation of EOCs were also proposed in this review.</dcterms:abstract>
+        <bibo:pages>721-731</bibo:pages>
+        <bibo:doi>10.1016/j.biortech.2013.07.083</bibo:doi>
+        <bibo:uri>http://www.sciencedirect.com/science/article/pii/S0960852413011516</bibo:uri>
+        <dcterms:creator rdf:nodeID="n9518"/>
+        <bibo:authorList>
+            <rdf:Seq>
+                <rdf:li rdf:nodeID="n9518"/>
+                <rdf:li rdf:nodeID="n9520"/>
+                <rdf:li rdf:nodeID="n9521"/>
+                <rdf:li rdf:nodeID="n9522"/>
+                <rdf:li rdf:nodeID="n9523"/>
+            </rdf:Seq>
+        </bibo:authorList>
+        <dcterms:creator rdf:nodeID="n9520"/>
+        <dcterms:creator rdf:nodeID="n9521"/>
+        <dcterms:creator rdf:nodeID="n9522"/>
+        <dcterms:creator rdf:nodeID="n9523"/>
+        <dcterms:isPartOf>
+            <bibo:Issue>
+                <bibo:volume>146</bibo:volume>
+                <dcterms:date>October 1, 2013</dcterms:date>
+                <dcterms:isPartOf>
+                    <bibo:Journal>
+                        <dcterms:title>Bioresource Technology</dcterms:title>
+                        <bibo:shortTitle>Bioresource Technology</bibo:shortTitle>
+                        <bibo:issn>0960-8524</bibo:issn>
+                    </bibo:Journal>
+                </dcterms:isPartOf>
+            </bibo:Issue>
+        </dcterms:isPartOf>
+    </bibo:AcademicArticle>
+    <foaf:Person rdf:nodeID="n9518">
+       <foaf:givenname>Ngoc Han</foaf:givenname><foaf:surname>Tran</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9520">
+       <foaf:givenname>Taro</foaf:givenname><foaf:surname>Urase</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9521">
+       <foaf:givenname>Huu Hao</foaf:givenname><foaf:surname>Ngo</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9522">
+       <foaf:givenname>Jiangyong</foaf:givenname><foaf:surname>Hu</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9523">
+       <foaf:givenname>Say Leong</foaf:givenname><foaf:surname>Ong</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/ES9GU8F2">
+        <res:resource rdf:resource="http://www.sciencedirect.com/science/article/pii/S0269749110002149"/>
+        <z:accessDate>2018-05-16 16:36:23</z:accessDate>
+        <z:repository>ScienceDirect</z:repository>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Antibiotics</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Emerging pollutant</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Groundwater</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Manure</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Organic vegetable base</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Soil</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Vegetable</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+    </z:UserItem>
+    <bibo:AcademicArticle rdf:about="http://www.sciencedirect.com/science/article/pii/S0269749110002149">
+        <dcterms:title>Occurrence and source analysis of typical veterinary antibiotics in manure, soil, vegetables and groundwater from organic vegetable bases, northern China</dcterms:title>
+        <dcterms:abstract>The residue of antibiotics is becoming an intractable environmental problem in many organic vegetable bases. However, their residual levels and distribution are still obscure. This work systematically analyzed the occurrence and migration of typical veterinary antibiotics in organic vegetable bases, northern China. The results showed that there was no obvious geographical difference in antibiotic distribution between soil and manure. A simple migration model can be easy and quick to predict the accumulation of antibiotics in soil. Antibiotics were mainly taken up through water transport and passive absorption in vegetables. The distribution of antibiotics in a plant was in the sequence leaf > stem > root, and performed biological accumulation. The residues of antibiotics in all samples in winter were significantly higher than those in summer. Overall, this work can lay the foundation for understanding ecological risk of antibiotics and their potential adverse effects on human health by food chain.</dcterms:abstract>
+        <bibo:pages>2992-2998</bibo:pages>
+        <bibo:doi>10.1016/j.envpol.2010.05.023</bibo:doi>
+        <bibo:uri>http://www.sciencedirect.com/science/article/pii/S0269749110002149</bibo:uri>
+        <dcterms:creator rdf:nodeID="n9534"/>
+        <bibo:authorList>
+            <rdf:Seq>
+                <rdf:li rdf:nodeID="n9534"/>
+                <rdf:li rdf:nodeID="n9536"/>
+                <rdf:li rdf:nodeID="n9537"/>
+            </rdf:Seq>
+        </bibo:authorList>
+        <dcterms:creator rdf:nodeID="n9536"/>
+        <dcterms:creator rdf:nodeID="n9537"/>
+        <dcterms:isPartOf>
+            <bibo:Issue>
+                <bibo:volume>158</bibo:volume>
+                <bibo:issue>9</bibo:issue>
+                <dcterms:date>September 1, 2010</dcterms:date>
+                <dcterms:isPartOf>
+                    <bibo:Journal>
+                        <dcterms:title>Environmental Pollution</dcterms:title>
+                        <bibo:shortTitle>Environmental Pollution</bibo:shortTitle>
+                        <bibo:issn>0269-7491</bibo:issn>
+                    </bibo:Journal>
+                </dcterms:isPartOf>
+            </bibo:Issue>
+        </dcterms:isPartOf>
+    </bibo:AcademicArticle>
+    <foaf:Person rdf:nodeID="n9534">
+       <foaf:givenname>Xiangang</foaf:givenname><foaf:surname>Hu</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9536">
+       <foaf:givenname>Qixing</foaf:givenname><foaf:surname>Zhou</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9537">
+       <foaf:givenname>Yi</foaf:givenname><foaf:surname>Luo</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/R2AVFQM7">
+        <res:resource rdf:resource="http://www.sciencedirect.com/science/article/pii/S0065211305870014"/>
+        <z:accessDate>2018-05-16 16:36:11</z:accessDate>
+        <z:repository>ScienceDirect</z:repository>
+    </z:UserItem>
+    <bibo:BookSection rdf:about="http://www.sciencedirect.com/science/article/pii/S0065211305870014">
+        <dcterms:title>Antibiotic Use in Agriculture and Its Impact on the Terrestrial Environment</dcterms:title>
+        <dcterms:abstract>Since their discovery, antibiotics have been instrumental in treating infectious diseases that were previously known to kill humans and animals. However, their widespread use as an additive in animal feeds has raised concerns about the development of antibiotic‐resistant microorganisms. Increasingly, more microorganisms are becoming resistant to multiple antibiotics. A high proportion of the antibiotics added to animal feed is excreted in urine or manure. In some cases, as much as 90% of the antibiotic administered orally may pass through the animal unchanged. Once excreted in urine and manure, these antibiotics can enter surface and/or groundwater through nonpoint source pollution from manure‐applied lands. The literature shows that most of the antibiotics are strongly adsorbed in soils and are not readily degraded. An important environmental concern is the presence of antibiotics in sources of potable water. Except erythromycin and some sulfa drugs, most of the antibiotics found in surface waters have been only in minute quantities. In all cases, the amounts observed are in parts per billion ranges; 100‐ to 1000‐fold below minimum inhibitory concentration. Tetracyclines and penicillins, two of the most commonly used antibiotics in animal agriculture, have seldom been found in sources of potable water. There has been some reported presence of resistant bacteria in surface waters. This may have been from transport of resistant bacteria via animal or insect vectors, in airborne dusts, or simply water flow from some antibiotic‐rich setting such as manure lagoons. Direct toxic effects of antibiotics on plants and soil microflora and ‐fauna are unlikely because of the low concentrations at which antibiotics in manure are land‐applied. The indirect effects of antibiotics on the food web, however, cannot be discounted at this stage. Decrease in some components of the soil microbial populations due to manure‐applied antibiotics could cause loss of food sources for other soil organisms, which, in turn, could affect important soil microbial processes such as decomposition and mineralization. Also, repeated application of antibiotic‐laden manure can provide an environment in which selection of antibiotic‐resistant bacteria can occur. Prudent use of antibiotics to a bare minimum along with alternative methods that minimize development and proliferation of resistant bacteria need investigation.</dcterms:abstract>
+        <bibo:pages>1-54</bibo:pages>
+        <bibo:uri>http://www.sciencedirect.com/science/article/pii/S0065211305870014</bibo:uri>
+        <z:extra>DOI: 10.1016/S0065-2113(05)87001-4</z:extra>
+        <dcterms:creator rdf:nodeID="n9549"/>
+        <bibo:authorList>
+            <rdf:Seq>
+                <rdf:li rdf:nodeID="n9549"/>
+                <rdf:li rdf:nodeID="n9551"/>
+                <rdf:li rdf:nodeID="n9552"/>
+                <rdf:li rdf:nodeID="n9553"/>
+            </rdf:Seq>
+        </bibo:authorList>
+        <dcterms:creator rdf:nodeID="n9551"/>
+        <dcterms:creator rdf:nodeID="n9552"/>
+        <dcterms:creator rdf:nodeID="n9553"/>
+        <dcterms:isPartOf>
+            <bibo:EditedBook>
+                <dcterms:title>Advances in Agronomy</dcterms:title>
+                <bibo:volume>87</bibo:volume>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                       <foaf:name>Academic Press</foaf:name>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <dcterms:date>January 1, 2005</dcterms:date>
+            </bibo:EditedBook>
+        </dcterms:isPartOf>
+    </bibo:BookSection>
+    <foaf:Person rdf:nodeID="n9549">
+       <foaf:givenname>Kuldip</foaf:givenname><foaf:surname>Kumar</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9551">
+        <foaf:givenname>Satish</foaf:givenname>
+        <foaf:surname>C. Gupta</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9552">
+       <foaf:givenname>Yogesh</foaf:givenname><foaf:surname>Chander</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9553">
+       <foaf:givenname>Ashok K.</foaf:givenname><foaf:surname>Singh</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/3738947/items/9U9W7JUU">
+        <res:resource rdf:resource="http://www.sciencedirect.com/science/article/pii/S030438941000021X"/>
+        <z:accessDate>2018-05-16 16:33:32</z:accessDate>
+        <z:repository>ScienceDirect</z:repository>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Degradation</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Manganese peroxidase (MnP)</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+            <ctag:AutoTag>
+               <ctag:label>Oxytetracycline (OTC)</ctag:label>
+            </ctag:AutoTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:AutoTag><ctag:label>Tetracycline (TC)</ctag:label></ctag:AutoTag>
+        </ctag:tagged>
+    </z:UserItem>
+    <bibo:AcademicArticle rdf:about="http://www.sciencedirect.com/science/article/pii/S030438941000021X">
+        <dcterms:title>Enzymatic degradation of tetracycline and oxytetracycline by crude manganese peroxidase prepared from Phanerochaete chrysosporium</dcterms:title>
+        <dcterms:abstract>Pharmaceuticals have been attracting increasing attention in recent years as emerging contaminants, of which the most frequently detected kind in various environments are antibiotics. In this study, crude manganese peroxidase (MnP) prepared from the Phanerochaete chrysosporium, a white rot fungi, was taken as a highly efficient biocatalyst to degrade tetracycline (TC) and oxytetracycline (OTC) which are widely used antibiotics. The results show that 72.5% of 50mg/L of TC was degraded when added 40U/L of MnP, while 84.3% of 50mg/L of OTC was degraded with the same amount of the catalyst added, both within 4h. The degradation rate was dependant on the pH and the temperature of the reaction system, and was likely sensitive to the concentration of H2O2. With the pH at 2.96–4.80, the temperature at 37–40°C, the Mn2+ concentration higher than 0.1mM and up to 0.4mM, the H2O2 concentration of 0.2mM, and the enzyme-substrate ratio above 2.0U/mg, the degradation rate reached the highest. In addition, a separate series of experiments also show that the compensation of H2O2 during the reaction process could improve the degradation of TC by MnP.</dcterms:abstract>
+        <bibo:pages>924-928</bibo:pages>
+        <bibo:doi>10.1016/j.jhazmat.2010.01.005</bibo:doi>
+        <bibo:uri>http://www.sciencedirect.com/science/article/pii/S030438941000021X</bibo:uri>
+        <dcterms:creator rdf:nodeID="n9559"/>
+        <bibo:authorList>
+            <rdf:Seq>
+                <rdf:li rdf:nodeID="n9559"/>
+                <rdf:li rdf:nodeID="n9561"/>
+                <rdf:li rdf:nodeID="n9562"/>
+            </rdf:Seq>
+        </bibo:authorList>
+        <dcterms:creator rdf:nodeID="n9561"/>
+        <dcterms:creator rdf:nodeID="n9562"/>
+        <dcterms:isPartOf>
+            <bibo:Issue>
+                <bibo:volume>177</bibo:volume>
+                <bibo:issue>1</bibo:issue>
+                <dcterms:date>May 15, 2010</dcterms:date>
+                <dcterms:isPartOf>
+                    <bibo:Journal>
+                        <dcterms:title>Journal of Hazardous Materials</dcterms:title>
+                        <bibo:shortTitle>Journal of Hazardous Materials</bibo:shortTitle>
+                        <bibo:issn>0304-3894</bibo:issn>
+                    </bibo:Journal>
+                </dcterms:isPartOf>
+            </bibo:Issue>
+        </dcterms:isPartOf>
+    </bibo:AcademicArticle>
+    <foaf:Person rdf:nodeID="n9559">
+       <foaf:givenname>Xianghua</foaf:givenname><foaf:surname>Wen</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9561">
+       <foaf:givenname>Yannan</foaf:givenname><foaf:surname>Jia</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n9562">
+       <foaf:givenname>Jiaxi</foaf:givenname><foaf:surname>Li</foaf:surname>
+    </foaf:Person>
+</rdf:RDF>
